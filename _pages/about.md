@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: <a href="https://www.technion.ac.il/en/home-2/">Technion</a>.
+description: Ph.D. student @ <a href="https://www.technion.ac.il/en/home-2/">Technion</a>.
 
 profile:
   align: right
